@@ -1,0 +1,14 @@
+.div {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 20px;
+    border: 50px solid rgb(0,161,0,255);
+    padding: 30px;
+    color: rgb(0,161,0,255);
+    font-size: 30px;
+    background-color: white;
+}
+p {
+    background-color: rgba(198,195,221,255);
+}
